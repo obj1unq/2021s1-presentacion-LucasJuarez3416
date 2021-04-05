@@ -2,6 +2,10 @@
 
 ## Estudiante: Lucas Juárez
 
+![foto](2015-06-13 18.35.20.jpg)
+
+Soy Lucas, papá de Julián y amante de las zucaritas de keloggs. Músico y dibujante frustrado. Tengo 35 años y estoy casado con Marcia. Si hacés asado invitame. En la foto estoy con niní que parece copada pero es bastante mala onda.
+
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
 Consiste en hacer 4 simples tareas:
