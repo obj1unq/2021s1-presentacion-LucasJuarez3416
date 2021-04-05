@@ -2,7 +2,7 @@
 
 ## Estudiante: Lucas Juárez
 
-![foto](2015-06-13 18.35.20.jpg)
+![foto](https://github.com/obj1unq/2021s1-presentacion-LucasJuarez3416/blob/master/2015-06-13%2018.35.20.jpg)
 
 Soy Lucas, papá de Julián y amante de las zucaritas de keloggs. Músico y dibujante frustrado. Tengo 35 años y estoy casado con Marcia. Si hacés asado invitame. En la foto estoy con niní que parece copada pero es bastante mala onda.
 
